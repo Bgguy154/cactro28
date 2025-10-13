@@ -4,7 +4,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 const storiesData = [
   {
     id: 1,
-    username: "travel_lover",
+    username: "travel_lover"
     avatar: "https://images.unsplash.com/photo-1494790108755-2616b332c28c?w=150&h=150&fit=crop&crop=face",
     stories: [
       "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=600&fit=crop",
